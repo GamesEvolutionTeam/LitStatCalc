@@ -1,0 +1,12 @@
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\bin\Debug\SPECIAL calc 3.exe.config
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\bin\Debug\SPECIAL calc 3.exe
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\bin\Debug\SPECIAL calc 3.pdb
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL calc 3.csprojResolveAssemblyReference.cache
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL_calc_3.Form1.resources
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL_calc_3.Properties.Resources.resources
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL calc 3.csproj.GenerateResource.Cache
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL calc 3.csproj.CoreCompileInputs.cache
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL calc 3.exe
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL calc 3.pdb
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL_calc_3.Charinfo.resources
+D:\Инструкции\Рукословоблудие\SPECIAL calc 3\SPECIAL calc 3\SPECIAL calc 3\obj\Debug\SPECIAL_calc_3.Form3.resources
